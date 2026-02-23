@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilaljawaid980&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UsamaAhmed22&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaAhmed22&theme=github-dark&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" height="170"/>
 </p>
 

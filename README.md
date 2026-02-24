@@ -21,6 +21,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/UsamaAhmed22/UsamaAhmed22/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UsamaAhmed22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaAhmed22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
 </p>

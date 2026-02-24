@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/UsamaAhmed22/UsamaAhmed22/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/UsamaAhmed22/UsamaAhmed22/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
